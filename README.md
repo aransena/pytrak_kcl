@@ -8,3 +8,4 @@ There may be dependency issues, if you attempt to run trakstar_demo.py and it te
 aran[dot]sena[at]kcl[dot]ac[dot]uk
 
 Many thanks to Oliver Lindemann for the pytrak library - https://github.com/lindemann09/pytrak
+pytrak version used in this repo from commit 5fe4fd1.
