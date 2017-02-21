@@ -6,3 +6,5 @@ You'll need to install the trakStar USB drivers before running this code. These 
 There may be dependency issues, if you attempt to run trakstar_demo.py and it tells you that something is missing, let me know and I'll add a workaround to the readme.
 
 aran[dot]sena[at]kcl[dot]ac[dot]uk
+
+Many thanks to Oliver Lindemann for the pytrak library - https://github.com/lindemann09/pytrak
